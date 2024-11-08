@@ -9,6 +9,7 @@ typechain-types
 cache
 artifacts
 .states
+.deps
 
 # Depyloments
 ## Ucomment if you want to save deployments
